@@ -1,0 +1,1 @@
+{"version": "0.2.0","configurations": [{"type": "java","name": "Launch HelloWorld","request": "launch","mainClass": "HelloWorld","projectName": "java-hello-world","cwd": "${workspaceFolder}","console": "integratedTerminal","preLaunchTask": "maven: clean compile"}]}
